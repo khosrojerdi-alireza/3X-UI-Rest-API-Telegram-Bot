@@ -121,3 +121,5 @@ docker run -d \
 - `requests`
 - `qrcode[pil]`
 - `Pillow`
+- `python-dotenv`
+- `urllib3`
