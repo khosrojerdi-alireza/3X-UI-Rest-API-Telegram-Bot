@@ -39,8 +39,8 @@ strings.py   — رشته‌های متنی فارسی
 
 ```bash
 # کلون پروژه
-git clone [<repo-url>](https://github.com/khosrojerdi-alireza/3X-UI-Rest-API-Telegram-Bot.git)
-cd 3xui-telegram-bot
+git clone (https://github.com/khosrojerdi-alireza/3X-UI-Rest-API-Telegram-Bot.git)
+cd 3X-UI-Rest-API-Telegram-Bot
 
 # نصب وابستگی‌ها
 pip install -r requirements.txt
