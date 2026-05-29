@@ -39,7 +39,7 @@ strings.py   — رشته‌های متنی فارسی
 
 ```bash
 # کلون پروژه
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/khosrojerdi-alireza/3X-UI-Rest-API-Telegram-Bot.git)
 cd 3xui-telegram-bot
 
 # نصب وابستگی‌ها
